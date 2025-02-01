@@ -18,11 +18,11 @@ This project is a classic Tic-Tac-Toe game implemented in Java with a Graphical 
    * Open the project in your IDE or navigate to the folder via the command line.
    * Compile the Java file:
      ```bash
-     javac main.java
+     javac Main.java
      ```
    * Run the compiled class:
      ```bash
-     java main
+     java Main
      ```
 # Game Rules
 * The game is played on a 3x3 grid.
